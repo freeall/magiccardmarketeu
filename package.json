@@ -1,6 +1,6 @@
 {
   "name": "magiccardmarketeu",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Fetch the card details from one card from http://magiccardmarket.eu",
   "dependencies": {
     "cheerio": "^0.19.0",
